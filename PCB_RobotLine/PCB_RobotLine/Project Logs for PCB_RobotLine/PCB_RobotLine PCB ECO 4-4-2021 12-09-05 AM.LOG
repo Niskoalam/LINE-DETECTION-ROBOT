@@ -1,0 +1,12 @@
+Added Component: Designator=SW5(DIP SWITCH 1 POS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "KG01ET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1 = 0.36000, 10 = 0.35100, 25 = 0.33080, 100 = 0.28720, 250 = 0.26056, 500 = 0.24240, 1000 = 0.21816, 2500 = 0.20483, 5000 = 0.19028 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2449-KG01ET-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=SW5-1
+Added Pin To Net: NetName=NetC9_2 Pin=SW5-2
+Added Member To Class: ClassName=U_SheetPower Member=Component SW5 DIP SWITCH 1 POS

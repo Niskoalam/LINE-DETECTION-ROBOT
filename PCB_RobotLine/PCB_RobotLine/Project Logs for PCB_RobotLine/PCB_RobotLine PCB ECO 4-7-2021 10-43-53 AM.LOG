@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetU1_41 Pin=U2-16
+Removed Pin From Net: NetName=NetU1_39 Pin=U2-22
+Added Pin To Net: NetName=NetU1_39 Pin=U2-16
+Added Pin To Net: NetName=NetU1_41 Pin=U2-22
+Added Member To Class: ClassName=U_SheetPower Member=Component BT1 1.5V x 2

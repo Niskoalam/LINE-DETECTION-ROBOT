@@ -1,0 +1,7 @@
+Change Net Color : Net Name= GND Old Net Color=Default New Net Color=RGB(95, 116, 226)
+Change Net Color : Net Name= VBOOST Old Net Color=Default New Net Color=RGB(161, 0, 106)
+Change Net Color : Net Name= VCC Old Net Color=Default New Net Color=RGB(247, 120, 0)
+Change Pin Designator/Name:  Old Designator=U2-16 Old Name=BIN2 New Designator =AIN2 New Name=22
+Change Pin Designator/Name:  Old Designator=U2-17 Old Name=BIN1 New Designator =AIN1 New Name=21
+Change Pin Designator/Name:  Old Designator=U2-21 Old Name=AIN1 New Designator =BIN1 New Name=17
+Change Pin Designator/Name:  Old Designator=U2-22 Old Name=AIN2 New Designator =BIN2 New Name=16

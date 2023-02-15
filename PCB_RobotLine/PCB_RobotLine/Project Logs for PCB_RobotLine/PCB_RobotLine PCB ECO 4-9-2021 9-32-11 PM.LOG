@@ -1,0 +1,6 @@
+Added Component: Designator=HOLE1(Hole 2MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HOLE2(Hole 2MM)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=U_SheetMicrocontroller Member=Component HOLE1 Hole
+Added Member To Class: ClassName=U_SheetMicrocontroller Member=Component HOLE2 Hole
